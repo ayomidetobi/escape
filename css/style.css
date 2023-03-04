@@ -1,0 +1,39 @@
+.bg-purple{
+    background-color: 
+    #251254;
+}
+.text-white{
+    color: white;
+}
+.float-right {
+    float: right;
+}
+a {
+    text-decoration: none;
+}
+.border-section{
+    border: 2px solid #251254;
+}
+.d-block{
+    display: block;
+}
+.border-10{
+    border-radius: 10px;
+}
+.border-welcome{
+    border: 3px solid #432C7A;
+    border-radius: 20px;
+}
+.text-center{
+    text-align: center;
+}
+.text-purple{
+    color: #251254;
+}
+.border-bottom{
+    border-bottom:  2px solid #4111B6;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
